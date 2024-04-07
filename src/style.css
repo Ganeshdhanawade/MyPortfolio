@@ -6,12 +6,15 @@
   --bggradient: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
 }
 
+
 * {
   box-sizing: border-box;
   font-family: var(--Rubik);
   scroll-behavior: smooth;
 }
-
+* ::-webkit-scrollbar{
+  display: none;
+}
 html {
   scroll-behavior: smooth !important;
 }
@@ -273,6 +276,8 @@ header .btn {
 /********** section 5 **************/
 
 .section-5 {
+  display: flex;
+  justify-content: center;
   padding-top: 7vmin;
   padding-bottom: 10vmin;
   background-position: center;
@@ -339,16 +344,18 @@ header .btn {
   border-radius: 4px;
 }
 .section-5 .contact .btn {
-  margin-top: 10px;
   background: #ff006a;
   color: #fff;
-  padding: 12px 24px;
+  padding: 12px 14px;
   border: none;
   outline: none;
   border-radius: 30px;
   font-weight: 500;
   font-size: 16px;
   transition: 0.5s;
+  width: 50%;
+  margin: 12px auto;
+  display: block;
 }
 .section-5 .contact .btn:hover {
   background: #dd2476;
@@ -442,3 +449,9 @@ footer .column i + i {
 #myBtn:hover {
   background-color: #404040;
 }
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+

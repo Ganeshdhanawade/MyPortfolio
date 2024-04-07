@@ -1,6 +1,6 @@
 # 👤 Portfolio Website
 
-> ### Checkout Website at https://iampavangandhi.github.io/
+> ### Checkout Website at https://ganeshdhanawade.github.io/
 > ### Deployed using [Github Pages](https://pages.github.com/)
 
 ## Technologies Used
@@ -13,16 +13,10 @@
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/iampavangandhi.github.io/issues/new) or submit PRs
+Feel free to dive in! [Open an issue](https://github.com/ganeshdhanawade/ganeshdhanawade.github.io/issues/new) or submit PRs
 
 ## License
 
-[Apache-2.0](LICENSE) © Pavan Gandhi
+[Apache-2.0](LICENSE) © Ganesh Dhanawade
 
 ---
-
-<div align="center">
-
-### Show some ❤️ by starring 🌟 the repository!
-
-</div>
